@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Talita Franciskievicz
 
-**`Desenvolvedora Full Stack Jr (em formação)`**
+**`Desenvolvedora Front-end Jr (em formação)`**
 
 Olá! Me chamo Talita Franciskievicz, tenho 26 anos e sou natural do Rio Grande do Sul. Estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento web.
 
