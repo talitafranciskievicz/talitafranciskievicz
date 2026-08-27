@@ -2,11 +2,13 @@
 
 **`Desenvolvedora Front-end Jr (em formação)`**
 
-Olá! Me chamo Talita Franciskievicz, tenho 26 anos e sou natural do Rio Grande do Sul. Estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento web.
+Olá! Me chamo Talita Franciskievicz, tenho 27 anos e moro na cidade de Igrejinha/Rs. Estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento web Full Stack.
 
-Atualmente, estou cursando um programa profissionalizante de Desenvolvimento Front-End na Escola DNC, com ênfase em HTML, CSS, JavaScript e React. Além disso, também sou bolsista no projeto +PraTi, onde estou me especializando como Desenvolvedora Full Stack Júnior, com aprendizado que abrange tanto o Front-end quanto o Back-end, incluindo Banco de Dados, APIs, e muito mais.
+Atualmente, estou cursando um programa profissionalizante de Desenvolvimento Web Full Stack pela Growdev.
 
-Se quiser acompanhar minha jornada e minhas conexões profissionais, dá uma olhada no meu LinkedIn ➡️
+Competências Técnicas: HTML, CSS, Javascript.
+
+Se quiser acompanhar minha jornada e meus projetos pessoais, dá uma olhada no meu LinkedIn ➡️
  [Talita Franciskievicz](https://www.linkedin.com/in/talita-franciskievicz/).
 
 
