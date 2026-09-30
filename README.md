@@ -8,9 +8,7 @@ Atualmente, estou cursando um programa profissionalizante de Desenvolvimento Web
 
 Competências Técnicas: HTML, CSS, Javascript.
 
-Se quiser acompanhar minha jornada e meus projetos pessoais, dá uma olhada no meu LinkedIn ➡️
-
-[Talita Franciskievicz](https://www.linkedin.com/in/talita-franciskieviczz/)
+Se quiser acompanhar minha jornada e meus projetos pessoais, dá uma olhada no meu LinkedIn ➡️ [Talita Franciskievicz](https://www.linkedin.com/in/talita-franciskieviczz/)
 ---
 
 ### 🤖 Linguagens e Tecnologias
