@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Talita Franciskievicz
 
-**`Desenvolvedora Front-end Jr (em formação)`**
+**`Desenvolvedora Full Satck Jr (em formação)`**
 
 Olá! Me chamo Talita Franciskievicz, tenho 27 anos e moro na cidade de Igrejinha/Rs. Estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento web Full Stack.
 
