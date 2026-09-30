@@ -6,7 +6,7 @@ Olá! Me chamo Talita Franciskievicz, tenho 27 anos e moro na cidade de Igrejinh
 
 Atualmente, estou cursando um programa profissionalizante de Desenvolvimento Web Full Stack pela Growdev.
 
-Competências Técnicas: HTML, CSS, Javascript.
+Competências Técnicas: HTML, CSS, Javascript, Git, API REST e Express.
 
 Se quiser acompanhar minha jornada e meus projetos pessoais, dá uma olhada no meu LinkedIn ➡️ [Talita Franciskievicz](https://www.linkedin.com/in/talita-franciskieviczz/)
 ---
